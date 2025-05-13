@@ -34,6 +34,8 @@ I am Rishi Jain, pursuing B.tech in Computer Science and engineering from Walcha
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532"   height="30" alt="PowerBI logo" />
   <img width="12" />
+  <img src="https://imgs.search.brave.com/4HUDi-VTmEYFZUCDTa6Ci9OBIvVkcmm5xF8_99XXZuk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA0L2V4Y2VsLWxv/Z28ucG5n"   height="30" alt="Excel logo" />
+  <img width="12" />
   
 </div>
 
