@@ -30,13 +30,13 @@ I am Rishi Jain, pursuing B.tech in Computer Science and engineering from Walcha
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/s4y5pHTq20o8CgrJuURqnxg7jdFvxt5YznXg4YQyd_o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA4/L015U1FMLUxvZ28t/NTAweDI4MS5qcGc" height="30" alt="Mysql logo"  />
+  <img src="https://imgs.search.brave.com/RAvPAR0s7hJmvMuXvnSHlELWTPgQDpKqvEEHW3o5WEw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmRlYmM0ZmZmM2M2/ZTRiOGI1ZGU4ZDMu/cG5n" height="30" alt="Mysql logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532"   height="30" alt="PowerBI logo" />
   <img width="12" />
   <img src="https://imgs.search.brave.com/4HUDi-VTmEYFZUCDTa6Ci9OBIvVkcmm5xF8_99XXZuk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA0L2V4Y2VsLWxv/Z28ucG5n"   height="30" alt="Excel logo" />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/qR255R_pMbMeR6A80wBdQ2ZX6j7G8XMmdnaehdEOcAo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzLzczMV9q/YXZhLmpwZw" height="30" alt="java logo"  />
+  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/11807fc81373843c5f928343122391bedd59e4af/Papirus/64x64/apps/java.svg" height="30" alt="java logo"  />
   <img width="12" />
   
 </div>
