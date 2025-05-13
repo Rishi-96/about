@@ -30,7 +30,7 @@ I am Rishi Jain, pursuing B.tech in Computer Science and engineering from Walcha
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/CnslUfsK0qtHZGqRQpKO0tyHbXI8avmYXCiQydzynNU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9NeVNRTC9N/eVNRTC1Mb2dvLndp/bmUuc3Zn" height="30" alt="python logo"  />
+  <img src="https://imgs.search.brave.com/RAvPAR0s7hJmvMuXvnSHlELWTPgQDpKqvEEHW3o5WEw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmRlYmM0ZmZmM2M2/ZTRiOGI1ZGU4ZDMu/cG5n" height="30" alt="Mysql logo"  />
   <img width="12" />
   
 </div>
