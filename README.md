@@ -36,6 +36,8 @@ I am Rishi Jain, pursuing B.tech in Computer Science and engineering from Walcha
   <img width="12" />
   <img src="https://imgs.search.brave.com/4HUDi-VTmEYFZUCDTa6Ci9OBIvVkcmm5xF8_99XXZuk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA0L2V4Y2VsLWxv/Z28ucG5n"   height="30" alt="Excel logo" />
   <img width="12" />
+  <img src="https://imgs.search.brave.com/qR255R_pMbMeR6A80wBdQ2ZX6j7G8XMmdnaehdEOcAo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzLzczMV9q/YXZhLmpwZw" height="30" alt="java logo"  />
+  <img width="12" />
   
 </div>
 
