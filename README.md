@@ -14,7 +14,7 @@ I am Rishi Jain, pursuing B.tech in Computer Science and engineering from Walcha
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishi-96&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishi-96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://imgs.search.brave.com/s4y5pHTq20o8CgrJuURqnxg7jdFvxt5YznXg4YQyd_o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA4/L015U1FMLUxvZ28t/NTAweDI4MS5qcGc" height="150" alt="languages graph"  />
 </div>
 
 
